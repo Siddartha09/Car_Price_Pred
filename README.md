@@ -2,15 +2,23 @@
 
 Project is based on the Case Study - “Predicting Automobile prices using Neural Networks.”
 This project's aim is to create a model that can predict price of an automobile. The model takes into consideration the factors which are valued by the customers. 
+
 Below are the variables considered for this model:
 
 Price	- Offer price in CA$
+
 Age	- Age in months
+
 KM	- Accumulated kilometers on odometer
+
 Fuel -	Fuel type (Petrol, Diesel, CNG)
+
 HP- 	Horse power
+
 MC	- Metallic colour? (Yes=1, No=0)
+
 Colour -	Colour (blue, red, grey, silver, black, etc.)
+
 Auto	- Automatic (Yes=1, No=0)
 CC	- Cylinder volume in cubic centimeters
 Drs	- Number of doors
